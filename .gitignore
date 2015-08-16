@@ -6,4 +6,9 @@
 *.war
 *.ear
 /bin/
+/build/
 /target/
+.git
+.idea
+*.iml
+
